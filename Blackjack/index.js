@@ -107,4 +107,8 @@ function newCard() {
         }
 }
 
-    
+function reset(){
+
+  cardEl.textContent = "Cards: 0"
+  sumEl.textContent = "Sum: 0"
+}
