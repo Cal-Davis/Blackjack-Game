@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+    
+}
+body{
+    background-image: url(img/Premium\ Photo\ _\ Green\ grass\ pattern\ and\ texture\ for\ background_\ close-up_.jpg);
+    background-position: center;
+    max-width: 100%;
+    max-height: 100vh;
+    text-align: center;
+    color: aliceblue;
+}
+h1{
+   font-size: 50px;
+    margin: 20px;
+    color: goldenrod
+  
+}
+p{
+    font-size: 35px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+#message-el{
+   
+    margin: 10px;
+    padding:10px;
+    
+    font-style: italic;
+ 
+}
+
+button{
+    margin: 15px;
+    padding: auto;
+    background-color: goldenrod;
+    border:none;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    color: rgb(9, 155, 21);
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+button:hover{
+    background-color: rgba(218, 165, 32, 0.603);
+   
+}
+button:active{
+    background-color: goldenrod;
+    color: black
+}
